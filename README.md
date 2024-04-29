@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Software Engineer with interests in Fullstack Development, Artificial Intlligence, and Cloud-centric design. Plus sometimes I make games👾!
 
-[![Acostaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=acostaldi)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Acostaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=acostaldi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
